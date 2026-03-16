@@ -1,0 +1,28 @@
+D:\VLSC_DataStructure Algorithm\DSA_Session2\bin\Debug\net8.0\DSA_Session2.exe
+D:\VLSC_DataStructure Algorithm\DSA_Session2\bin\Debug\net8.0\DSA_Session2.deps.json
+D:\VLSC_DataStructure Algorithm\DSA_Session2\bin\Debug\net8.0\DSA_Session2.runtimeconfig.json
+D:\VLSC_DataStructure Algorithm\DSA_Session2\bin\Debug\net8.0\DSA_Session2.dll
+D:\VLSC_DataStructure Algorithm\DSA_Session2\bin\Debug\net8.0\DSA_Session2.pdb
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\DSA_Session2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\DSA_Session2.AssemblyInfoInputs.cache
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\DSA_Session2.AssemblyInfo.cs
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\DSA_Session2.csproj.CoreCompileInputs.cache
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\DSA_Session2.dll
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\refint\DSA_Session2.dll
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\DSA_Session2.pdb
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\DSA_Session2.genruntimeconfig.cache
+D:\VLSC_DataStructure Algorithm\DSA_Session2\obj\Debug\net8.0\ref\DSA_Session2.dll
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\bin\Debug\net8.0\DSA_Session2.exe
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\bin\Debug\net8.0\DSA_Session2.deps.json
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\bin\Debug\net8.0\DSA_Session2.runtimeconfig.json
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\bin\Debug\net8.0\DSA_Session2.dll
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\bin\Debug\net8.0\DSA_Session2.pdb
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\DSA_Session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\DSA_Session2.AssemblyInfoInputs.cache
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\DSA_Session2.AssemblyInfo.cs
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\DSA_Session2.csproj.CoreCompileInputs.cache
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\DSA_Session2.dll
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\refint\DSA_Session2.dll
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\DSA_Session2.pdb
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\DSA_Session2.genruntimeconfig.cache
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\obj\Debug\net8.0\ref\DSA_Session2.dll
