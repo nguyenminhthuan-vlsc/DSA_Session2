@@ -1,0 +1,15 @@
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\bin\Debug\net8.0\DSA_Homework_S2.exe
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\bin\Debug\net8.0\DSA_Homework_S2.deps.json
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\bin\Debug\net8.0\DSA_Homework_S2.runtimeconfig.json
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\bin\Debug\net8.0\DSA_Homework_S2.dll
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\bin\Debug\net8.0\DSA_Homework_S2.pdb
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\DSA_Homework_S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\DSA_Homework_S2.AssemblyInfoInputs.cache
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\DSA_Homework_S2.AssemblyInfo.cs
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\DSA_Homework_S2.csproj.CoreCompileInputs.cache
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\DSA_Homework_S2.sourcelink.json
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\DSA_Homework_S2.dll
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\refint\DSA_Homework_S2.dll
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\DSA_Homework_S2.pdb
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\DSA_Homework_S2.genruntimeconfig.cache
+C:\CAU TRUC VA GIAI THUAT\DSA_Session2\DSA_Homework_S2\obj\Debug\net8.0\ref\DSA_Homework_S2.dll
