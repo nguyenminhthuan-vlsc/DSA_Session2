@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "omDcqq10ubI=",
   "success": true,
   "projectFilePath": "C:\\CAU TRUC VA GIAI THUAT\\DSA_Session2\\DSA_Session2.csproj",
+=======
+  "dgSpecHash": "18AR/KPhA+o=",
+  "success": true,
+  "projectFilePath": "C:\\Môn Thứ 2 Học\\DSA_Lesson1\\DSA_Lesson1.csproj",
+>>>>>>> a799f278674daaabaa6ce529e6831c6341316b83
   "expectedPackageFiles": [],
   "logs": []
 }

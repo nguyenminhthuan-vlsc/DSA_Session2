@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\CAU TRUC VA GIAI THUAT\\DSA_Session2\\DSA_Session2.csproj",
       "projectName": "DSA_Session2",
       "projectPath": "C:\\CAU TRUC VA GIAI THUAT\\DSA_Session2\\DSA_Session2.csproj",
       "packagesPath": "C:\\Users\\US\\.nuget\\packages\\",
       "outputPath": "C:\\CAU TRUC VA GIAI THUAT\\DSA_Session2\\obj\\",
+=======
+      "projectUniqueName": "C:\\Môn Thứ 2 Học\\DSA_Lesson1\\DSA_Lesson1.csproj",
+      "projectName": "DSA_Lesson1",
+      "projectPath": "C:\\Môn Thứ 2 Học\\DSA_Lesson1\\DSA_Lesson1.csproj",
+      "packagesPath": "C:\\Users\\US\\.nuget\\packages\\",
+      "outputPath": "C:\\Môn Thứ 2 Học\\DSA_Lesson1\\obj\\",
+>>>>>>> a799f278674daaabaa6ce529e6831c6341316b83
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\US\\AppData\\Roaming\\NuGet\\NuGet.Config"
